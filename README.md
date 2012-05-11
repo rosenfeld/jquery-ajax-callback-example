@@ -1,0 +1,2 @@
+    bundle
+    rackup -E production
